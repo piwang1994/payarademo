@@ -11,7 +11,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="payarademo" />
+          <element id="module-output" name="itmd4515-f23-fp-a20478885" />
         </element>
       </element>
       <element id="directory" name="META-INF">

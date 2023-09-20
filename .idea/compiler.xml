@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="payarademo" />
+        <module name="itmd4515-f23-fp-a20478885" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="payarademo" target="11" />
+      <module name="itmd4515-f23-fp-a20478885" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

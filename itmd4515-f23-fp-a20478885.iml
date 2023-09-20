@@ -11,8 +11,11 @@
     <facet type="jpa" name="JPA">
       <configuration>
         <setting name="validation-enabled" value="true" />
-        <datasource-mapping />
+        <datasource-mapping>
+          <factory-entry name="payarademo" />
+        </datasource-mapping>
         <naming-strategy-map />
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/src/main/resources/META-INF/persistence.xml" />
       </configuration>
     </facet>
   </component>
@@ -49,5 +52,7 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.eclipse.microprofile.opentracing:microprofile-opentracing-api:3.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: fish.payara.api:payara-api:6.2023.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: fish.payara.security.connectors:security-connectors-api:3.0.alpha6" level="project" />
+    <orderEntry type="library" name="Maven: com.mysql:mysql-connector-j:8.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.21.9" level="project" />
   </component>
 </module>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itmd4515-f23-fp-a20478885:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>itmd4515-f23-fp-a20478885</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="A20478885-fp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="itmd4515-f23-fp-a20478885:war exploded" />
+    </root>
+  </artifact>
+</component>
