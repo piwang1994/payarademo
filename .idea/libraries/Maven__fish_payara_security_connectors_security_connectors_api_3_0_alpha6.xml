@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: fish.payara.security.connectors:security-connectors-api:3.0.alpha6">
+    <CLASSES>
+      <root url="jar://D:/maven_repo/fish/payara/security/connectors/security-connectors-api/3.0.alpha6/security-connectors-api-3.0.alpha6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven_repo/fish/payara/security/connectors/security-connectors-api/3.0.alpha6/security-connectors-api-3.0.alpha6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven_repo/fish/payara/security/connectors/security-connectors-api/3.0.alpha6/security-connectors-api-3.0.alpha6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
